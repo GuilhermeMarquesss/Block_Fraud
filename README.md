@@ -1,6 +1,6 @@
 # Block_Fraud
 
-<img src="/images/fraud.png" alt="fraud"/>
+<img src="/images/fraud2.jpg" alt="fraud"/>
 
 Context
 There is a lack of public available datasets on financial services and specially in the emerging mobile money transactions domain. Financial datasets are important to many researchers and in particular to us performing research in the domain of fraud detection. Part of the problem is the intrinsically private nature of financial transactions, that leads to no publicly available datasets.
