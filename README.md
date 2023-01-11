@@ -2,15 +2,13 @@
 
 <img src="/images/fraud2.jpg" alt="fraud"/>
 
-## Context
+## Contexto
 
-There is a lack of public available datasets on financial services and specially in the emerging mobile money transactions domain. Financial datasets are important to many researchers and in particular to us performing research in the domain of fraud detection. Part of the problem is the intrinsically private nature of financial transactions, that leads to no publicly available datasets.
+Há uma falta de conjuntos de dados públicos disponíveis sobre serviços financeiros e especialmente no domínio emergente de transações de dinheiro móvel. Os conjuntos de dados financeiros são importantes para muitos pesquisadores e, em particular, para nós que realizamos pesquisas no domínio da detecção de fraudes. Parte do problema é a natureza intrinsecamente privada das transações financeiras, que não leva a conjuntos de dados publicamente disponíveis.
 
-We present a synthetic dataset generated using the simulator called PaySim as an approach to such a problem. PaySim uses aggregated data from the private dataset to generate a synthetic dataset that resembles the normal operation of transactions and injects malicious behaviour to later evaluate the performance of fraud detection methods.
+Apresentamos um conjunto de dados sintético gerado usando o simulador chamado PaySim como uma abordagem para tal problema. O PaySim usa dados agregados do conjunto de dados privado para gerar um conjunto de dados sintético que se assemelha à operação normal de transações e injeta comportamento malicioso para avaliar posteriormente o desempenho dos métodos de detecção de fraude.
 
-Content
-PaySim simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The original logs were provided by a multinational company, who is the provider of the mobile financial service which is currently running in more than 14 countries all around the world.
+O Content PaySim simula transações de dinheiro móvel com base em uma amostra de transações reais extraídas de um mês de registros financeiros de um serviço de dinheiro móvel implementado em um país africano. Os logs originais foram fornecidos por uma empresa multinacional, que é a provedora do serviço financeiro móvel atualmente em execução em mais de 14 países em todo o mundo.
 
-This synthetic dataset is scaled down 1/4 of the original dataset and it is created just for Kaggle.
-
-https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
+Aqui você verá toda análise feita sobre esse projeto :
+https://github.com/GuilhermeMarquesss/Block_Fraud/blob/main/Notebookj.ipynb
