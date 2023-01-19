@@ -11,4 +11,4 @@ Apresentamos um conjunto de dados sintético gerado usando o simulador chamado P
 O Content PaySim simula transações de dinheiro móvel com base em uma amostra de transações reais extraídas de um mês de registros financeiros de um serviço de dinheiro móvel implementado em um país africano. Os logs originais foram fornecidos por uma empresa multinacional, que é a provedora do serviço financeiro móvel atualmente em execução em mais de 14 países em todo o mundo.
 
 Aqui você verá toda análise feita sobre esse projeto :
-https://github.com/GuilhermeMarquesss/Block_Fraud/blob/main/Notebookj.ipynb
+https://github.com/GuilhermeMarquesss/Block_Fraud/blob/main/Notebook.ipynb
